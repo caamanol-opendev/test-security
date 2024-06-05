@@ -11,4 +11,4 @@ sftp.connect({
   console.log(data, 'the data info');
 }).catch(err => {
   console.log(err, 'catch error');
-});``
+});
