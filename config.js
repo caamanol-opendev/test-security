@@ -8,3 +8,4 @@ const DB_SCHEMA: 'asaraza',
 const FTP_USER: 'PEDROPEDROPE'
 const FTP_PASS: 'SECRETO'
 const FTP_HOST: 'CALLE.FALSA.COM'
+const SARAZA: 'mongodb+srv://t3ys3r4:asdqwEWQE123@cluster0.pnivmbh.mongodb.net/
